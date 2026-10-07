@@ -1,0 +1,13 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Rodrigo Faerman" },
+  "metadata": { "description": "Mods para o Claude Code", "version": "0.1.0" },
+  "plugins": [
+    {
+      "name": "progresso-tarefas",
+      "source": "./plugins/progresso-tarefas",
+      "description": "Mostra só as tarefas principais com barra de progresso e % acima do prompt",
+      "version": "0.1.0"
+    }
+  ]
+}

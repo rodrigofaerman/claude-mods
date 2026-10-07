@@ -1,0 +1,16 @@
+{
+  "name": "progresso-tarefas",
+  "version": "0.1.0",
+  "description": "Mostra só as tarefas principais com barra de progresso e % acima do prompt",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Rodrigo Faerman"
+  },
+  "license": "MIT",
+  "keywords": [
+    "progresso",
+    "tarefas",
+    "todo",
+    "status"
+  ]
+}
